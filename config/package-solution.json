@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "page-hub-client-side-solution",
+    "id": "77f4792d-7b85-4f97-af7c-4fdb56287dea",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "page-hub description"
+      },
+      "longDescription": {
+        "default": "page-hub description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "page-hub Feature",
+        "description": "The feature that activates elements of the page-hub solution.",
+        "id": "3b76901f-0dbd-461f-a3d7-32d16e23041c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/page-hub.sppkg"
+  }
+}

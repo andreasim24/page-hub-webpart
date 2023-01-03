@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.0",
+    "libraryName": "page-hub",
+    "libraryId": "77f4792d-7b85-4f97-af7c-4fdb56287dea",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "page-hub",
+    "solutionShortDescription": "page-hub description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

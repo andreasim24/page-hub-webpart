@@ -1,0 +1,13 @@
+@import "~@fluentui/react/dist/sass/References.scss";
+
+.pagesWrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.pagesCard {
+    display: inline-block;
+    width: 220px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
